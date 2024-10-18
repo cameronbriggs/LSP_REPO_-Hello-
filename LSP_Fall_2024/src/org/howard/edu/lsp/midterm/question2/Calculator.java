@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.midtern.question2;
+package org.howard.edu.lsp.midterm.question2;
 
 public class Calculator {
 
