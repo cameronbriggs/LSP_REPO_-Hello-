@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * The IntegerSet class provides a collection of unique integers
- * and various set operations like union, intersection, and difference.
+ * and various set operations like union, intersection, and difference
  */
 public class IntegerSet {
     private List<Integer> set = new ArrayList<Integer>();
